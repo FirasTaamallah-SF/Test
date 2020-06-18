@@ -1,0 +1,4 @@
+public enum XAP_DAO_TRANS_SObjectListKeyEnum {
+	VISIT_REPORT_LIST,
+	NO_CALLBACK_REQUIRED
+}
